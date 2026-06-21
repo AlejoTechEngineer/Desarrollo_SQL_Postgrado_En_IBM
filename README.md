@@ -1,6 +1,13 @@
+<div align="center">
+
 # 📌 Desarrollo SQL Postgrado en IBM  
 
-## 📖 Descripción  
+## 📖 Descripción
+
+</div>
+
+---
+
 Este proyecto está enfocado en el desarrollo y optimización de bases de datos en IBM Db2, incluyendo modelado relacional, constraints y procedimientos almacenados.
 
 ## 🛠️ Funcionalidades  
@@ -22,3 +29,12 @@ Este proyecto está enfocado en el desarrollo y optimización de bases de datos 
 
 ## 📌 Autor  
 👨‍💻 **Alejandro De Mendoza**
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
