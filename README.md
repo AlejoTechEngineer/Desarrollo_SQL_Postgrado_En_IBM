@@ -32,6 +32,21 @@ Este proyecto está enfocado en el desarrollo y optimización de bases de datos 
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Configurar IBM Db2 - Crear base de datos] --> B[Ejecutar scripts SQL en IBM Data Studio]
+    B --> C{Tipo de objeto}
+    C --> D[Esquemas y Tablas]
+    C --> E[Procedimientos Almacenados]
+    C --> F[Triggers]
+    C --> G[Optimizacion de consultas]
+    D & E & F & G --> H[(IBM Db2)]
+    H --> I[Conexion JDBC con aplicacion cliente]
+    I --> J[Resultados / Consultas optimizadas]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
